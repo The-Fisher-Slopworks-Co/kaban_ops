@@ -1,7 +1,8 @@
 # Kaban Ops
 
-> ⚠️ **Heads up:** this repo is currently unusable. 🚧 The authors may break
-> everything at any time — pin a commit at your own risk. 💥
+> 🪦 **Abandoned & archived.** This project is no longer maintained. The
+> repository has been archived and is read-only — no further updates, bug
+> fixes, or security patches will be made. Use at your own risk.
 
 A local AI orchestrator that looks like a kanban board. You write coding
 tasks into columns. An agent picks them up, makes the changes inside an
